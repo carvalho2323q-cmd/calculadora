@@ -50,7 +50,7 @@
     </style>
 </head>
 
-<body>
+</body>
 
 <div class="calculadora">
     <input type="text" id="resultado" disabled>
@@ -109,4 +109,3 @@
 
 </body>
 </html>
-
